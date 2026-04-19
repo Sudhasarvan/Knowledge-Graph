@@ -1,0 +1,12 @@
+neo4j
+openai
+streamlit
+python-dotenv
+pypdf
+sentence-transformers
+faiss-cpu
+scikit-learn
+nltk
+rouge-score
+pyvis
+matplotlib
